@@ -32,6 +32,17 @@
         "command": "polacode.activate",
         "title": "Polacode 📸"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Polacode",
+      "properties": {
+        "polacode.transparentBackground": {
+          "type": "boolean",
+          "default": true,
+          "description": "If true, code snapshot background will be transparent",
+          "scope": "window"
+        }
+      }
+    }
   }
 }
