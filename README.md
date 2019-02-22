@@ -1,3 +1,16 @@
+# Update
+
+Add an option to use transparent background and remove shadow (by default is on), which I think is prettier than the original one and fit more cases.
+
+New:
+
+![new](https://raw.githubusercontent.com/edding/polacode/master/demo/new.png)
+
+Original:
+
+![old](https://raw.githubusercontent.com/edding/polacode/master/demo/old.png)
+
+
 # Polacode
 
 Polaroid for your code 📸.
